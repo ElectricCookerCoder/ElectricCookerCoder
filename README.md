@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### My Github Contributions
+![](https://raw.githubusercontent.com/ElectricCookerCoder/ElectricCookerCoder/main/assets/github-contribution-grid-snake.svg)
