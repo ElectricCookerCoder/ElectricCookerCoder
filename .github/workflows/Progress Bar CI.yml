@@ -3,7 +3,7 @@ name: Progress Bar CI
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 */24 * * *'
 
 jobs:
   build:
@@ -12,7 +12,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: Use Node.js
+    - name: Use Node16.js
       uses: actions/setup-node@v1
       with:
         node-version: '16.x'
