@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ⏰ Updated on Tue, 28 Mar 2023 00:59:03 GMT
 
-![Progress Bar CI](https://github.com/lectricCookerCoder/ElectricCookerCoder/workflows/Progress%20Bar%20CI/badge.svg)
+![Progress Bar CI](https://github.com/lectricCookerCoder/ElectricCookerCoder/main/assets/Progress%20Bar%20CI/badge.svg)
 
 
 ### My Github Contributions
