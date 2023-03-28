@@ -15,5 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+⏳ Year progress { ███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 23.57 %
+
+---
+
+⏰ Updated on Tue, 28 Mar 2023 00:59:03 GMT
+
+![Progress Bar CI](https://github.com/lectricCookerCoder/ElectricCookerCoder/workflows/Progress%20Bar%20CI/badge.svg)
+
+
 ### My Github Contributions
 ![](https://raw.githubusercontent.com/ElectricCookerCoder/ElectricCookerCoder/main/assets/github-contribution-grid-snake.svg)
